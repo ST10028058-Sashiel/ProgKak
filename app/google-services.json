@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762204101400",
+    "project_id": "firebasics-68e28",
+    "storage_bucket": "firebasics-68e28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762204101400:android:96b6cde844bb54845d5c6d",
+        "android_client_info": {
+          "package_name": "com.example.progkak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPcxRCmD2MwsZOLH4-IlD3bdbgndg90P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
